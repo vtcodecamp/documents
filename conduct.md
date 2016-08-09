@@ -43,7 +43,7 @@ If a speaker is violating the Code of Conduct, their talk will be ended immediat
 
 ## 6. If You Witness or Are Subject to Unacceptable Behavior
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible via email at [team@vtcodecamp.org](mailto:team@vtcodecamp.org).
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer or volunteer as soon as possible. At in-person events, organizers/volunteers can be identified by a "Volunteer" t-shirt. Outside of events, organizers can be reached via email at [team@vtcodecamp.org](mailto:team@vtcodecamp.org); **however, this email may not be monitored during in-person events, so it is important to find an organizer/volunteer at the event.**
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
@@ -56,7 +56,7 @@ If you are a witness to behavior that violates this Code of Conduct, we recommen
 * Provide the victim with emergency contact information if needed.
 * Communicate with the event organizers about what happened and how to handle it.
 
-Again, please contact us when an incident occurs. The email, [team@vtcodecamp.org](mailto:team@vtcodecamp.org), goes directly to the organizers.
+Again, please let us know when an incident occurs. At in-person events, organizers/volunteers can be identified by a "Volunteer" t-shirt. The email address, [team@vtcodecamp.org](mailto:team@vtcodecamp.org), goes directly to the organizers **(however, since this email address may not be monitored during in-person events, please find an organizer/volunteer and notify them directly)**.
 
 ## 7. Addressing Grievances
 
@@ -74,7 +74,9 @@ We expect all community participants (contributors, paid or otherwise; sponsors;
 
 ## 9. Contact Info
 
-Email: [team@vtcodecamp.org](mailto:team@vtcodecamp.org)
+**At in-person events, please notify a community organizer or volunteer directly.** Organizers/volunteers can be identified by a "Volunteer" t-shirt.
+
+Email: [team@vtcodecamp.org](mailto:team@vtcodecamp.org) (this email address may not be monitored during in-person events)
 
 ## 10. License and Attribution
 
