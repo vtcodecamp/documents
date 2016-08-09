@@ -2,11 +2,11 @@
 
 ## 1. Purpose
 
-A primary goal of UX Burlington is to be inclusive to the largest number of attendees and speakers, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of Vermont Code Camp is to be inclusive to the largest number of attendees and speakers, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
-This code of conduct outlines our expectations for all those who participate in our conference, as well as the consequences for unacceptable behavior.
+This code of conduct outlines our expectations for all those who participate in our event, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in UX Burlington to help us create safe and positive experiences for everyone.
+We invite all those who participate in Vermont Code Camp to help us create safe and positive experiences for everyone.
 
 ## 2. Open Culture Citizenship
 
@@ -39,45 +39,45 @@ If a community member engages in unacceptable behavior, the community organizers
 
 If an attendee or speaker is violating the Code of Conduct, they will be given a warning based on the severity determined by the conference organizers. If the grievance is severe, they will be asked to leave immediately and not return.
 
-If a speaker is violating the Code of Conduct, their talk will be ended immediately and they will receive a warning. Dependent on the severity of the grievance, the speaker may be asked to leave the conference and banned from future UX Burlington events.
+If a speaker is violating the Code of Conduct, their talk will be ended immediately and they will receive a warning. Dependent on the severity of the grievance, the speaker may be asked to leave the conference and banned from future Vermont Code Camp events.
 
 ## 6. If You Witness or Are Subject to Unacceptable Behavior
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible via email at info@uxburlington.com.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible via email at [team@vtcodecamp.org](mailto:team@vtcodecamp.org).
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
-If you feel that you are unsafe in an emergency situation, contact 911. For non-emergencies, the Burlington Police Department can be reached at (802) 658-2704.
+**If you feel that you are unsafe in an emergency situation, contact 911.** For non-emergencies, the Burlington Police Department can be reached at (802) 658-2704, and The University of Vermont Police Department can be reached at (802) 656-3473.
 
 If you are a witness to behavior that violates this Code of Conduct, we recommend you take the following actions:
 
-* If there is a threat present, contact the Burlington Police Department - 911 or (802) 658-2704.
-* Sit with the victim and ask "how can I help?"
-* Provide the victim with emergency contact information if needed
-* Communicate with the event organizers about what happened and how to handle it
+* If there is a threat present, contact 911, or the Burlington Police Department at (802) 658-2704 or The University of Vermont Police Department at (802) 656-3473.
+* Sit with the victim and ask, "How can I help?"
+* Provide the victim with emergency contact information if needed.
+* Communicate with the event organizers about what happened and how to handle it.
 
-Again, please contact us when an incident occurs. The email, info@uxburlington.com, goes directly to the organizers.
+Again, please contact us when an incident occurs. The email, [team@vtcodecamp.org](mailto:team@vtcodecamp.org), goes directly to the organizers.
 
 ## 7. Addressing Grievances
 
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the conference organizers with a concise description of your grievance. When reporting a grievance please provide the following information in writing:
 
-* When it happened
-* What happened
-* The context surrounding the grievance
-* Who caused the grievance
-* Who else was involved
+* when it happened
+* what happened
+* the context surrounding the grievance
+* who caused the grievance
+* who else was involved
 
 ## 8. Scope
 
-We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues—online and in- person—as well as in all one-on-one communications pertaining to community business.
+We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues—online and in-person—as well as in all one-on-one communications pertaining to community business.
 
-## 9. Contact info
+## 9. Contact Info
 
-Email: info@uxburlington.com
+Email: [team@vtcodecamp.org](mailto:team@vtcodecamp.org)
 
-## 10. License and attribution
+## 10. License and Attribution
 
-This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/)
+This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
 
-Adapted from the [Citizen Code of Conduct](http://citizencodeofconduct.org/), [Pycon Attendee Procedure for incident handling](https://github.com/python/pycon-code-of-conduct/blob/master/Attendee%20Procedure%20for%20incident%20handling.md) and [Pycon Staff Procedure for incident handling](https://github.com/python/pycon-code-of-conduct/blob/master/Staff%20Procedure%20for%20incident%20handling.md) on 16 February 2014.
+Based on the [UX Burlington](http://uxburlington.com/) [Code of Conduct](http://uxburlington.com/conduct/), which was adapted from the [Citizen Code of Conduct](http://citizencodeofconduct.org/), [Pycon Attendee Procedure for incident handling](https://github.com/python/pycon-code-of-conduct/blob/master/Attendee%20Procedure%20for%20incident%20handling.md) and [Pycon Staff Procedure for incident handling](https://github.com/python/pycon-code-of-conduct/blob/master/Staff%20Procedure%20for%20incident%20handling.md) on 16 February 2014.
