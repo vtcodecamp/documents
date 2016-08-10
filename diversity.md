@@ -1,6 +1,6 @@
 # Diversity Statement
 
-Our goal is to create an inclusive, respectful event environment that invites participation from people of all races, ethnicities, genders, ages, abilities, religions, and sexual orientation.
+Our goal is to create an inclusive, respectful event environment that invites participation from people of all races, ethnicities, gender identities or expressions, ages, abilities, religions (or lack thereof), sexual orientations, and educational levels.
 
 We're actively seeking to increase the diversity of our attendees, speakers, and sponsors through our calls for proposals, other open submission processes, and through dialogue with the larger communities we serve.
 
