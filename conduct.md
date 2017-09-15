@@ -47,11 +47,11 @@ If you are subject to or witness unacceptable behavior, or have any other concer
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
-**If you feel that you are unsafe in an emergency situation, contact 911.** For non-emergencies, the Burlington Police Department can be reached at (802) 658-2704, and The University of Vermont Police Department can be reached at (802) 656-3473.
+**If you feel that you are unsafe in an emergency situation, contact 911.** For non-emergencies, the Burlington Police Department can be reached at (802) 658-2704, and the Champlain College office of Campus Public Safety can be reached at (802) 865-6465 (dial extension 6465 from any campus phone).
 
 If you are a witness to behavior that violates this Code of Conduct, we recommend you take the following actions:
 
-* If there is a threat present, contact 911, or the Burlington Police Department at (802) 658-2704 or The University of Vermont Police Department at (802) 656-3473.
+* If there is a threat present, contact 911, or the Burlington Police Department at (802) 658-2704. Additionally, the Champlain College office of Campus Public Safety can be reached at (802) 865-6465 (dial extension 6465 from any campus phone).
 * Sit with the victim and ask, "How can I help?"
 * Provide the victim with emergency contact information if needed.
 * Communicate with the event organizers about what happened and how to handle it.
