@@ -3,8 +3,7 @@
 # Vermont Code Camp 2018<br/>Sponsor Information  
 The 10th annual Vermont Code Camp will be held on September 15, 2018 in Burlington, Vermont.  
 
-This full day event will bring together technology community members, students and professionals from around Vermont and beyond. A wide variety of software technologies will be represented, and session topics will likely include programming, databases, web and more.
-
+This full day event will bring together technology community members, students and professionals from around Vermont and beyond. A wide variety of software technologies will be represented. Session topics typically range from software development (e.g. languages, tools, practices, databases, web development, etc.) to the business of software and technology (e.g. entrepreneurship, consulting, team dynamics, etc.).
 
 Vermont Code Camp is free event for attendees and organized entirely by community volunteers, with the help of our sponsors.
 Our 2017 event drew 250 attendees. We had 7 session slots throughout the day with 5 sessions running at any one time. You can see last year’s schedule at https://www.vtcodecamp.org/2017/schedule.  
