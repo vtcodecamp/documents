@@ -28,9 +28,9 @@ Sponsorship opportunities typically include:
 * Swag: Give-away items (e.g. books, bags, items to put in attendee bags, software licenses, other raffle items, etc.)  
 
 ## Our commitment to sponsors:
-* Sponsor log and link on VTCodeCamp.org website under the relevant Sponsorship Section 
-* Sponsor logo and link on meetup.com/vtcode website 
-* Mention of sponsorship in multiple emails to meetup’s 2200+ members 
+* Your logo and link on VTCodeCamp.org website under the relevant Sponsorship Section 
+* Your logo and link on meetup.com/vtcode website 
+* Mention of your sponsorship in multiple emails to meetup’s 2200+ members 
 * Listing in printed materials provided to event attendees 
 * Placement of materials (e.g. job listings, brochures, etc) on brochure table at event  
 * For Platinum and Premier sponsors, placement of free-standing banner or logo or availability of a sponsor table at the event 
