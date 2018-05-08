@@ -13,10 +13,11 @@ WCAX visited during the day which was exciting. Co-organizer, Rob Hale, was inte
 While we keep our budget trim, we can’t pull off VT Code Camp without the financial support of our sponsors.
 Sponsorship opportunities typically include:
 * Feed us: sponsor breakfast, lunch or afternoon snacks
+* Fund us: enable us to cover our expenses for printing and other materials
 * Educate us: send books, mags, training to raffle
 * Simplify our lives: send your great software to raffle
 * Promote us: give us advertising space
-* Entertain us: sponsor the post-event volunteer party
+* Entertain us: sponsor the after party for speakers and volunteers
  
 ## Sponsorship Levels
 * Premier: $1,000+ or significant in-kind donation
