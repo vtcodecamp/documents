@@ -1,4 +1,4 @@
-!(https://github.com/vtcodecamp/documents/blob/master/vtcclogo.jpg "VTCC Logo")
+![VTCC Logo](https://github.com/vtcodecamp/documents/blob/master/vtcclogo.jpg)
 
 # Vermont Code Camp 2018<br/>Sponsor Information  
 The 10th annual Vermont Code Camp will be held on September 15, 2018 in Burlington, Vermont.  
