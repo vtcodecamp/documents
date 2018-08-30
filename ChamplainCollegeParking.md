@@ -1,6 +1,6 @@
 # Champlain College Parking Information
 
-Along with street parking, Vermont Code Camp parking is available on campus in Champlain College lots. Participants are welcome to park without a permit and free of charge in lots marked #3, #4, and $ (metered) on the attached parking map. We ask that you refrain from parking in the Admissions lot off Maple Street, marked on the map with an exclamation point (restricted).
+Vermont Code Camp is located in the Center for Communication & Creative Media (CCM), building 13 on the map below. Along with street parking, Vermont Code Camp parking is available on campus in Champlain College lots. Participants are welcome to park without a permit and free of charge in lots marked #3, #4, and $ (metered) on the attached parking map. We ask that you refrain from parking in the Admissions lot off Maple Street, marked on the map with an exclamation point (restricted).
 
 We anticipate parking will be tight, so we encourage you to [walk](http://www.champlain.edu/current-students/campus-services/transportation-and-parking/walk), [bike](http://www.champlain.edu/current-students/campus-services/transportation-and-parking/bike), [bus](http://www.champlain.edu/current-students/campus-services/transportation-and-parking/bus), or carpool.
 
